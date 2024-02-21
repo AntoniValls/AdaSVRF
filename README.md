@@ -14,3 +14,4 @@ findings highlight AdaSVRF’s potential in optimizing sparse problems with comp
 ## Performance in the Obesity Dataset
 ![obesity_performance](https://github.com/AntoniValls/AdaptiveStochasticFrank-Wolfe/assets/101109878/d6294016-6dd0-405d-b49b-56bfc3dff786)
 
+All work was done by [Shab Pompeiano](https://github.com/Shab98) and me.
