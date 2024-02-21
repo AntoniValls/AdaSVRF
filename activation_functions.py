@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 def ReLU(x):
     '''ReLU activation function'''
     return np.maximum(0,x)
