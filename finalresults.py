@@ -1,8 +1,6 @@
 """
 # Final results: we only compare SFW with AdaSVRF
 """
-from iris_run import SFW_iris, AdaSVRF_iris
-from obesity_run import SFW_obesity, AdaSVRF_obesity
 
 def plot_learning_curves(nns, MAX_EPOCHS = 100, MAX_CPU_TIME = 2):
     col = 0
