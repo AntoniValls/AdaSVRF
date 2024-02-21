@@ -8,10 +8,14 @@ Our computational experiments, using Iris and Obesity datasets, demonstrate AdaS
 performance over SFW, leveraging AdaGrad’s adaptive learning rates and variance reduction. Such
 findings highlight AdaSVRF’s potential in optimizing sparse problems with computational efficiency.
 
-## Performance in the Iris Dataset
+All work was done by [Shab Pompeiano](https://github.com/Shab98) and me.
+
+## Performance on the Iris Dataset
 ![iris_performance](https://github.com/AntoniValls/AdaptiveStochasticFrank-Wolfe/assets/101109878/d0cbb770-0a0c-4d01-acbf-c0ff4182846d)
 
-## Performance in the Obesity Dataset
+## Performance on the Obesity Dataset
 ![obesity_performance](https://github.com/AntoniValls/AdaptiveStochasticFrank-Wolfe/assets/101109878/d6294016-6dd0-405d-b49b-56bfc3dff786)
 
-All work was done by [Shab Pompeiano](https://github.com/Shab98) and me.
+## Colab link
+A deeper explanation about the code can be found at the following colab: https://colab.research.google.com/drive/1nxWqzR-43uCN7jucs2clG4hBHgStOm4u?usp=sharing
+
